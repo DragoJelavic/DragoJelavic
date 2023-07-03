@@ -1,5 +1,5 @@
-## Proud husband, doting father, and meticulous developer at Agilathon (Medable) 👨‍💻
-Hello there! I'm Drago Jelavic, a passionate developer who takes pride in clean code, meticulous code reviews, and maintaining consistency in every aspect of software development. Apart from being dedicated to my craft, I find immense joy in being a loving husband and father to my little girl and a boy. 👨‍👩‍👧
+## Proud husband, caring father, and meticulous developer at Agilathon (Medable) 👨‍💻
+Hello there! I'm Drago Jelavic, a passionate developer who takes pride in clean code, thorough code reviews, and maintaining consistency in every aspect of software development. Apart from being dedicated to my craft, I find immense joy in being a loving husband and father to my little girl and a boy. 👨‍👩‍👧
 
 ## Technical Interests
 With a strong affinity for technology, I am particularly drawn to frontend, backend, and full-stack development. I am always eager to dive into real production projects where I can expand my expertise in React and Node.js. Clean code and well-structured architectures are among my top priorities, as they contribute to maintainable and scalable solutions. ✨
