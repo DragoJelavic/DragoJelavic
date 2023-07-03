@@ -12,3 +12,9 @@ I am actively seeking collaboration opportunities on the frontend, backend, or f
 
 ## Let's Connect
 You can reach me via email at drago.jelavic2497@gmail.com. For more information about my work and projects, please visit my [LinkTree](https://linktr.ee/djelavic) or [LinkedIn](https://www.linkedin.com/in/drago-jelavi%C4%87-564b64180/). I'm excited to connect with fellow developers, share knowledge, and explore new possibilities together. 😄
+
+## Currently doing 
+**"It's been far too long Drago! 🎉 Welcome back!"**
+
+I am currently upgrading my old projects such as my final thesis paper where I built a health app that sells medical aids. ❤️‍🩹
+Will also update the other projects a bit. And hopefully, start a new one... 🔜
