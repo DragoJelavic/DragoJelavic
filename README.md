@@ -16,6 +16,4 @@ You can reach me via email at drago.jelavic2497@gmail.com. For more information 
 ## Currently doing 
 **"It's been far too long Drago! 🎉 Welcome back!"**
 
-I am currently upgrading my old projects such as my final thesis paper where I built a health app that sells medical aids. ❤️‍🩹
-
 Will also update the other projects a bit. And hopefully, start a new one... 🔜
